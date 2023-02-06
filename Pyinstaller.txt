@@ -1,0 +1,3 @@
+pyinstaller --onefile --windowed script.py
+pyinstaller --onefile <filename.py>
+pyinstaller -w -F --onefile <filename>.py
